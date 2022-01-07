@@ -1,0 +1,6 @@
+{
+  "python.analysis.diagnosticSeverityOverrides": {
+      "reportMissingImports": "none"
+  },
+  "python.linting.pylintArgs": ["--load-plugins", "pylint_protobuf"]
+}
